@@ -10,3 +10,4 @@ img = qr.make_image()
 img.save(file_path)
 
 print("the qrcode was generated succesfully! ")
+print("thank you for using this program")
